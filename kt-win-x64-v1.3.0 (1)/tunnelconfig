@@ -1,0 +1,15 @@
+allow_hosts = []
+api_key = "cfa1fb65-e4ed-41a7-8c77-9abfcb2d6001"
+group = "c6fc67a6-854b-45ff-bdb7-33f1696cbece"
+inactive_tunnel_timeout = 0
+organization_id = 910759
+private_tunnel = false
+proxy_host = ""
+proxy_password = ""
+proxy_port = ""
+proxy_username = ""
+retry = 3
+server = "https://tunnel-manager.katalon.com"
+team_id = 1110900
+tenant = "KatalonStudio"
+username = "ravindra.kolate@xceedance.com"
